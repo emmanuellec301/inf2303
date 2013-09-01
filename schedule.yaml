@@ -1,4 +1,3 @@
-
 - week : 1        
   classes :
   
@@ -55,6 +54,25 @@
             
 
     - date : Wednesday, July 10
+      title : Hardware
+      summary: |
+        Free software is often associated with hardware.What hardware is used and how?
+      readings :
+
+        - bib : |
+           Powell, A. (2012).
+            “Democratizing production through open source knowledge
+              :From open software to open hardware.”
+            *Media, Culture & Society, 34(6), 691-708.*
+          
+        - bib : |
+           Chris DiBona, ed. “Hardware, Software, and Infoware.” In
+            <b><i>Open Sources</i></b>.    To prop
+            
+      /11wb98X
+              
+              
+             - date : Wednesday, July 17
       title : Hackers
       summary: |
         Free software is often associated with "hackers". Who <i>are</i> hackers?
@@ -114,18 +132,25 @@
               bitly: http://bit.ly/11wb98X
 
 - week : 2
-  title : Software and Intellectual Property
+  title : Submitting Changes for Opesn Source and Software and Intellectual Property
   summary : |
     This week will focus on the theory behind the intellectual
-    property regime that emerged in the 1980s, the history of that
-    regime, and how it got extended to software.
-
+    property and submitting changes for OSS. 
+    
   classes :
     - date : Monday, July 15
       title : | 
-        Intellectual Property: Theory and History
+       Submitting Code : github
       summary : |
-        To properly contextualize free / open source software, we must first understand
+        To properly contextualize free / open source software, we must understand how people submit code to OSS projects,
+        the mechanics of it, and logistics. 
+
+    - date : Wednesday, July 17
+      title : Software as Intellectual Property
+      summary : |
+        How did *software* get to be protected by intellectual property
+        laws? And where did the idea of selling software as a
+        “product” come from?  To properly contextualize free / open source software, we must first understand
         why software is protected as intellectual property in the first place.
         In this class we look at the history and theory behind intellectual propertly generally.
         What are “public goods”?
@@ -134,33 +159,6 @@
         Why might it make sense to limit the use of information goods?
         What are some of the other ways of supporting production of such goods?
         What would be some of the alternatives to intelletual property?
-      readings :
-        - bib : |
-            Greg Mankiw,
-            “Public Goods and Common Resources,”
-            Chapter 11,
-            in *Principles of Economics*.
-            pp. 225–231.
-          availability :
-            - type : electronic
-              url : http://holtz.org/Library/Social%20Science/Economics/Public%20Goods%20and%20Common%20Resources%20-%20Mankiw.pdf
-              bitly : http://bit.ly/11WwUyE
-        - bib : |
-            Suzanne Scotchmer (2004). Chapters 1 and 2
-            in *Innovation and Incentives.
-            Cambridge, MA: The MIT Press.
-            (Pp. 1–61.)
-          availability :
-            - type : inforum
-            - type :  reserve
-              url : http://go.utlib.ca/cat/5303970
-
-    - date : Wednesday, July 17
-      title : Software as Intellectual Property
-      summary : |
-        How did *software* get to be protected by intellectual property
-        laws? And where did the idea of selling software as a
-        “product” come from?
       readings :
         - bib : |
             Martin Campbell-Kelly (2004).
@@ -182,12 +180,32 @@
             - type :  electronic
               url : http://papers.ssrn.com.myaccess.library.utoronto.ca/sol3/papers.cfm?abstract_id=328561
               bitly : http://bit.ly/12GBdWC
+              - bib : |
+            Greg Mankiw,
+            “Public Goods and Common Resources,”
+            Chapter 11,
+            in *Principles of Economics*.
+            pp. 225–231.
+          availability :
+            - type : electronic
+              url : http://holtz.org/Library/Social%20Science/Economics/Public%20Goods%20and%20Common%20Resources%20-%20Mankiw.pdf
+              bitly : http://bit.ly/11WwUyE
+        - bib : |
+            Suzanne Scotchmer (2004). Chapters 1 and 2
+            in *Innovation and Incentives.
+            Cambridge, MA: The MIT Press.
+            (Pp. 1–61.)
+          availability :
+            - type : inforum
+            - type :  reserve
+              url : http://go.utlib.ca/cat/5303970
+
 
 - week : 3
   classes :
     - date : Monday, July 22
       title : |
-        The GNU Project
+        The GNU Project and Midterm 
       summary : |
         How did the free software movement arise in the 1980s? What is
         “copyleft”? In what sense is the free software movement a
