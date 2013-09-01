@@ -13,11 +13,11 @@ Students are expected to take responsibility for their learning of the
 
 Grades will be based on the following components:
 
-  * preparation for the class (“memos,” **15%** of the course grade),
   * contribution to class discussion (**15%**),
+  * Midterm (**25%**)
   * the term paper (three deliverables jointly worth **50%**),
   * reviews of other students’ paper proposals (**10%**),
-  * a course “patch” (**10%**, see below).
+ 
 
 ### Contribution to Class Discussion — 15%
 
@@ -41,38 +41,18 @@ Students who have difficulty speaking in public should see the
   instructor early in the semester, so that we could discuss possible
   remedies.
 
-### Memos — 15%
+### Midterm— 25%
 
-For all classes other than the first and the last, the students will
-  prepare “memos” on the readings assigned for that class.
-Each memo should be no longer than 1 page and should be formatted in
-  accordance with this template:
-  [memo_template.pdf](handouts/memo_template.pdf),
-  [memo_template.odt](handouts/memo_template.odt),
-  [memo_template.doc](handouts/memo_template.doc),
-  [memo_template.rft](handouts/memo_template.rtf).
+The midterm will evaluate students understanding of key concepts and foundational 
+knowledge of Open Source Software. The midterm will cover the key words and concepts
+presented in the first three classes.The midterm will have consist of 50 questions
+and will be broken down in the following manner:
 
-The purpose of the memos is to help you make better sense of the
-  readings and to increase the quality of the in-class discussion by
-  ensuring that all students arrive to class having done the readings
-  and having spent some time thinking about them.
+* **Part A** 25 Questions - Multiple Choice 
+* **Part B**15 Questions - True or False 
+* **Part C**10 Questions - Short Answer 
 
-Each memo should consist of four sections.
 
-* Central issues in the readings;
-* The points on which the authors agree and disagree;
-* Your position on the issues (with explanation);
-* Three questions for discussion in the class (provide a brief
-  explanation of your questions if necessary).
-  
-The memos are due by email, <span class="important">by 8 am of the day
-  of each class</span>. (Please see below on the late policy for
-  memos.)
-  Please <span class="important">email your memo as a PDF attachment to all members of your team **and** the instructor.</span>
-  Please <span class="important">put “INF2303 memo for *date* class” for subject.</span>
-  (Subsitute the correct date of the class, e.g., “INF2303 memo for July 10 class.”)
-Students responsible for chairing each class will be tasked with
-  reading and summarizing submitted memos in writing.
 
 ### Term Paper and Presentation - 50%
 
@@ -89,9 +69,7 @@ The proposal, the presentation, and the final paper will be graded
   <span class="important">together</span> and will be jointly worth
   50% of your grade.
 
-It is recommended that students work on their papers in <span
-  class="important">teams of two</span>.
-However, they can opt to work individually or in groups of three.
+Students will work on their papers individually.
 
 Students can pick paper topics that best align with their professional
   interests, as long as there is a clear relationship to the topics
@@ -120,9 +98,9 @@ Due to the short duration of the course, students should start working
 
 #### Paper Proposal
 
-Prior to developing the paper, each team will prepare a paper
+Prior to developing the paper, each student will prepare a paper
   proposal.
-The teams will share their paper proposals with the rest of the class
+Each student will share their paper proposals with the rest of the class
   to receive feedback from other students.
 
 The **main text** of the proposal should be up to 2 pages long and
@@ -144,11 +122,11 @@ Paper proposals will not receive individual grades, but will be graded
 
 #### Final Presentation
 
-Each team will make a short (5-10 minutes) presentation about their research on the last day of class.
+Each student will make a short (5-10 minutes) presentation about their research on the last day of class.
 
 #### Final Term Paper
 
-The final deliverable is a paper of 5,000–7,000 words, due at the end
+The final deliverable is a paper of 2,500–3,000 words, due at the end
   of the semester.
 The papers will be shared with other students and will be evaluated by
   the instructor according to the following criteria:
@@ -172,7 +150,7 @@ The final grade for the paper will also incorporate an assessment of
 
 ### Paper Proposal Reviews — 10%
 
-Each student will receive three proposals from other teams and will
+Each student will receive one proposals from another student and will
   then be asked to write a review of each proposal.
 The reviews should be constructive in their focus and aim to help the
   author of each proposal improve their paper.
@@ -181,15 +159,7 @@ Each review should be 1–2 pages long and can include a bibliography if
 (If you include a bibliography, do not count it towards the page
   limit.)
 
-### A Course “Patch” — 10%
 
-Each student will be asked to submit a “patch” (modification) to the
-  course.
-The “source files” for the course syllabus are available on Github at
-  <https://github.com/yuri/inf2303>.
-The patches will be submitted via Github, which will include the
-  actual modification and a brief summary.
-Additionally, a one-page justification should be submitted via email.
 
 
 
